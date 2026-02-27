@@ -1,0 +1,12 @@
+include README.md
+include README_CN.md
+include LICENSE
+include CHANGELOG.md
+include CONTRIBUTING.md
+include DEVELOPMENT.md
+include DEVELOPMENT_CN.md
+include requirements.txt
+include start_server.sh
+include Dockerfile
+include docker-compose.yml
+recursive-include tests *.py
