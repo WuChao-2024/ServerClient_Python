@@ -7,19 +7,6 @@
 
 A high-performance inference server using binary protocol (Pickle) for fast data transmission between client and server. Optimized for deep learning model inference with minimal latency.
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Architecture](#architecture)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Usage Examples](#usage-examples)
-- [API Reference](#api-reference)
-- [Performance](#performance)
-- [Development](#development)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## ✨ Features
 
 - **Binary Protocol**: Uses Pickle Protocol 5 for efficient serialization of Python objects and numpy arrays
